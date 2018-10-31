@@ -18,6 +18,7 @@ Java 8u191.
 
 ## Установка
 
+```bash
 sudo dpkg -i cirno-java8-installer.deb
 
 sudo apt-get install -fy
@@ -25,3 +26,4 @@ sudo apt-get install -fy
 sudo dpkg -i cirno-java8-set-default.deb
 
 sudo apt-get install -fy
+```
